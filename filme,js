@@ -1,0 +1,9 @@
+const panico = {
+    nome: "panico",
+    anoLancado: "31 de janeiro de 1997",
+    tipoDeFilme: "terror",
+    elenco:["Neve Campbell", "Courteney Cox", "David Arquette", "Wes Craven", "Skeet Ulrich", "Drew Barrymore", "Jenna Ortega"],
+    resuminho:"Danny Rolling, também conhecido como O Estripador de Gainesville foi um serial killer norte-americano que aterrorizou Gainesville ao cometer uma série de assassinatos brutais",
+    direção:('Matt Bettinelli-Olpin')
+    }
+console.log(panico.nome)
